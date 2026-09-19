@@ -1,0 +1,9 @@
+numpy==2.4.4
+pandas==2.3.0
+scipy==1.16.2
+scikit-learn==1.8.0
+statsmodels==0.15.0
+torch==2.11.0
+tenseal==0.3.17
+matplotlib==3.10.8
+psutil==7.2.2
